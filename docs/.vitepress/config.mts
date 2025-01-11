@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Queral",
+  title: "Juliano Queral",
   description: "Juli",
   // TODO: add your base here; this should be your repo name!
    base: "/portfolio-Juliano-Queral/",
@@ -11,6 +11,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
+      { text: "Proyectos", link: "/proyectos" },
     ],
 
     sidebar: [
@@ -20,6 +21,6 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/jqueral" }],
   },
 });
