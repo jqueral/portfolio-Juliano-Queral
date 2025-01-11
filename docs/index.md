@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
+  name: "Juliano Queral"
+  text: "a developer extraordinaire's portfolio"
   tagline: "TODO: Tagline"
   actions:
     - theme: brand
