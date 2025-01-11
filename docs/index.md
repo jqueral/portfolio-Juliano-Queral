@@ -8,18 +8,17 @@ hero:
   tagline: "TODO: Tagline"
   actions:
     - theme: brand
-      text: Template Repository
+      text:  LinkedIn 
       link: "https://github.com/61040-fa24/vitepress-template"
     - theme: alt
-      text: Example Site
-      link: "https://61040-fa24.github.io/portfolio-dhua/"
+      text: 
+      
 
 features:
   - title: Blogs
-    details: Some cool blogs you'll write this semester!
+    details: Adopte el habito de escribir para razonar mejor
     link: /blogs
-  - title: Assignments
-    details: All of your assignments will be posted on your portfolio.
-  - title: About Me
-    details: You'll implement a small bio about yourself on here!
+    
+  - title: Un Poco Sobre Mi
+    details: Estudiante de ingeniería en Sistemas en la Universidad Tecnológica Nacional
 ---
