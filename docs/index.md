@@ -18,6 +18,10 @@ features:
   - title: Blogs
     details: Adopte el habito de escribir para razonar mejor
     link: /blogs
+
+  - title: Proyectos
+    
+    link: /proyectos
     
   - title: Un Poco Sobre Mi
     details: Estudiante de ingeniería en Sistemas en la Universidad Tecnológica Nacional
