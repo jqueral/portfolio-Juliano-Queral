@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Juliano Queral"
-  text: "a developer extraordinaire's portfolio"
+  text: "Mi Portfolio"
   tagline: "TODO: Tagline"
   actions:
     - theme: brand
