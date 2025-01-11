@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Juliano Queral"
   text: "Mi Portfolio"
-  tagline: "TODO: Tagline"
+  tagline: "hola"
   actions:
     - theme: brand
       text:  LinkedIn 
